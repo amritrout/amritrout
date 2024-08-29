@@ -14,7 +14,7 @@ const amrit = {
   code: [Java, JavaScript, C, SQL, HTML, CSS],
   tools: [React, Three.js, Blender, MySQL],
   projects: ["3D Portfolio Website", "Online Chess Game", "CHIP-8 Emulator"],
-  challenge: "Currently improving my skills in web development and exploring new technologies"
+  challenge: "Currently exploring new technologies"
 }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
