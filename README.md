@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: amritrout](https://img.shields.io/badge/-amritrout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amritrout/)](https://www.linkedin.com/in/amritrout/)
-[![GitHub: Ghostfury73](https://img.shields.io/github/followers/Ghostfury73?label=follow&style=social)](https://github.com/Ghostfury73)
+[![GitHub: amritrout](https://img.shields.io/github/followers/Ghostfury73?label=follow&style=social)](https://github.com/amritrout)
 
 ### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50"> A little more about me...
 
