@@ -13,7 +13,7 @@ const amrit = {
   pronouns: "he" | "him",
   code: [Java, JavaScript, C, SQL, HTML, CSS],
   tools: [React, Three.js, Blender, MySQL],
-  projects: ["3D Portfolio Website", "Online Chess Game", "CHIP-8 Emulator"],
+  projects: ["Arcane Script". 3D Portfolio Website", "Online Chess Game", "CHIP-8 Emulator"],
   challenge: "Currently exploring new technologies"
 }
 ```
